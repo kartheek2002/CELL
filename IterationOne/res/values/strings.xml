@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Iteration One</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="chk_remember">Remember me</string>
+    <string name="btn_signin">Sign In</string>
+    <string name="res_success">Success!</string>
+    <string name="res_fail">Failed!</string>
+    <string name="title_activity_after_login">AfterLoginActivity</string>
+    <string name="login_message">Welcome to a new Activity!</string>
+    <string name="btn_launch">Launch a new activity</string>
+    <string name="btn_done">Done</string>
+    <string name="title_activity_get_name">GetName</string>
+    <string name="btn_try_intent">Try Intent Filter</string>
+    <string name="title_activity_intent_filter">IntentFilter</string>
+    <string name="call">Make a call</string>
+    <string name="web">Open a web</string>
+    <string name="text_message">Send a message</string>
+
+</resources>
